@@ -25,7 +25,7 @@ services:
     volumes:
       - php_dynamic_qrcode_saved_qrcode_data:/data/saved_qrcode
     ports:
-      - "4867:80"
+      - "4876:80"
     depends_on:
       - qrcode_db
     networks:

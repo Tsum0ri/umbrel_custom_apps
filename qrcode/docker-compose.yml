@@ -14,7 +14,7 @@ services:
     user: "1000:1000"
     environment:
       TYPE: "docker"
-      BASE_URL: "https://mydomain.com"
+      BASE_URL: "https://localhost"
       DATABASE_HOST: "qrcode_db"
       DATABASE_PORT: "3306"
       DATABASE_NAME: "qrcode"

@@ -1,23 +1,21 @@
 manifestVersion: 1
-id: sparkles-hello-world
-name: Hello World
+id: qrcode
+name: QR-Code
 tagline: Replace this tagline with your app's tagline
-icon: https://svgur.com/i/mvA.svg
+icon: https://www.svgrepo.com/show/451215/qr-code.svg
 category: Development
 version: "1.0.0"
-port: 4000
+port: 4876
 description: >-
-  Add your app's description here.
+  PHP Dynamic Qr code is a script that allows the generation and saving of dynamic and static QR codes. 
 
 
-  You can also add newlines!
-
-developer: Umbrel
+developer: giandonatoinverso
 website: https://umbrel.com
 submitter: Umbrel
-submission: https://github.com/getumbrel/umbrel-hello-world-app
-repo: https://github.com/getumbrel/umbrel-hello-world-app
-support: https://github.com/getumbrel/umbrel-hello-world-app/issues
+submission: https://github.com/giandonatoinverso/PHP-Dynamic-Qr-code
+repo: https://github.com/giandonatoinverso/PHP-Dynamic-Qr-code
+support: https://github.com/giandonatoinverso/PHP-Dynamic-Qr-code
 gallery:
   - https://i.imgur.com/yyVG0Jb.jpeg
   - https://i.imgur.com/yyVG0Jb.jpeg
